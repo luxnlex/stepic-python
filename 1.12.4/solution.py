@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+c = int(input())
+d = sorted([a,b,c])
+print(d[2],"\n",d[0],"\n",d[1])
